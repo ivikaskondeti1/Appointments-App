@@ -1,0 +1,36 @@
+.listItem {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 280px;
+  padding: 10px;
+  border: 1px;
+  border-style: solid;
+  border-radius: 10px;
+  margin: 5px;
+}
+
+.cardblck {
+  display: flex;
+  flex-direction: column;
+}
+.paragraph {
+  color: black;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.time {
+  margin-top: 2px;
+  color: #b5b7c4;
+}
+.startImage {
+  height: 30px;
+  width: 30px;
+}
+
+.startButton {
+  background-color: transparent;
+  border: 0px;
+}
